@@ -1,0 +1,20 @@
+.marquees {
+    color: #F8E42C;
+    margin: 0 auto;
+    padding: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .marquees-text {
+    white-space: nowrap;
+    font-size: clamp(14rem, 22vw, 14rem);
+    line-height: 1;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .spacer {
+    margin-bottom: 200px;
+  }

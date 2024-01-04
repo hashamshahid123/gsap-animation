@@ -1,0 +1,30 @@
+.footer{
+    background-image: linear-gradient(
+  0deg,
+  hsl(54deg 100% 54%) 0%,
+  hsl(52deg 100% 81%) 70%,
+  hsl(0deg 0% 100%) 100%
+);
+
+
+}
+.text-ft {
+    font-size: 23vw;
+    font-family: 'Times New Roman', Times, serif;
+    color: #bbbbb7;
+}
+.footer-logo{
+    margin-left: 6vw;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20vh;
+}
+
+.footer--text p {
+    color: black;
+    font-weight: 500;
+    margin-right: 4vw;
+}

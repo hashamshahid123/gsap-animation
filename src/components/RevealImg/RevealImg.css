@@ -1,0 +1,11 @@
+
+  
+  .reveal-img{
+    height: 55vh;
+    width: 40vw;
+    object-fit: cover;
+  }
+  
+  .rev {
+    margin-top: 10vh;
+  }

@@ -1,0 +1,47 @@
+.inputField {
+    width: 200px;
+    padding: 5px;
+    border: none;
+    border-bottom: 2px solid #333;
+    margin: 10px;
+    
+  }
+
+  .containers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4vw;
+    height: 70vh;
+    margin-left: 15vw;
+  }
+
+  .form-select{
+    width: 40vw;
+      border: none; 
+      border-bottom: 0.5px solid black; 
+      outline: none;
+      border-radius: 0%;
+      font-size: 25px;
+      color: #969696;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+  .from-h1 {
+    font-size: 5vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+  }
+
+  .form-s {
+    float: right; 
+  }
+
+  .form-p {
+    font-size: 1.5vw;
+    margin-top: 1.5vh;
+  }
+
+  .form {
+    margin-bottom: 10vh;
+  }

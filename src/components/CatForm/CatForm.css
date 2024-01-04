@@ -1,0 +1,25 @@
+.form-input input {
+    border: none;
+    border-bottom: 1px solid rgb(80, 79, 79);
+    margin: 0 2vw;
+    width: 33vw;
+    font-size: 3vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2vh 4vw 2vh 0;
+}
+
+
+
+.cat-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 10vw; */
+}
+
+.cat-img {
+    margin-left: 12vw;
+    height: 75vh;
+    width: 30vw;
+    border-radius: 2em;
+}
